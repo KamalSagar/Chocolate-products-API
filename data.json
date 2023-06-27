@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "title": "Chocolate donuts",
+        "price": 250,
+        "image": "https://images.pexels.com/photos/3584882/pexels-photo-3584882.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "id": 2,
+        "title": "Chololate Peanut Cake",
+        "price": 223,
+        "image": "https://images.pexels.com/photos/5386665/pexels-photo-5386665.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "id": 3,
+        "title": "Chocolate strawberry",
+        "price": 559,
+        "image": "https://images.pexels.com/photos/5619164/pexels-photo-5619164.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "id": 4,
+        "title": "Chocolate Shake",
+        "price": 159,
+        "image": "https://images.pexels.com/photos/6261272/pexels-photo-6261272.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "id": 5,
+        "title": "Milk Chocolate",
+        "price": 695,
+        "image": "https://images.pexels.com/photos/4791257/pexels-photo-4791257.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "id": 6,
+        "title": "Chocolate Cup Cake",
+        "price": 768,
+        "image": "https://images.pexels.com/photos/10538803/pexels-photo-10538803.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "id": 7,
+        "title": "Dark Chocolate",
+        "price": 999,
+        "image": "https://images.pexels.com/photos/3259577/pexels-photo-3259577.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "id": 8,
+        "title": "Dark Chocolate IceCream",
+        "price": 199,
+        "image": "https://images.pexels.com/photos/1346341/pexels-photo-1346341.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "id": 9,
+        "title": "Dark Chocolate Cake",
+        "price": 647,
+        "image": "https://images.pexels.com/photos/4109998/pexels-photo-4109998.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "id": 10,
+        "title": "ALFAJORES Bocana",
+        "price": 199,
+        "image": "https://images.pexels.com/photos/16522216/pexels-photo-16522216/free-photo-of-brand-chocolate-cookie.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "id": 11,
+        "title": "Chololate Bar IceCream",
+        "price": 109,
+        "image": "https://images.pexels.com/photos/3883858/pexels-photo-3883858.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "id": 12,
+        "title": "Grand Ferrero Rocher",
+        "price": 1014,
+        "image": "https://images.pexels.com/photos/754191/pexels-photo-754191.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "id": 13,
+        "title": "Nestle Chocolate hamper",
+        "price": 2099,
+        "image": "https://images.pexels.com/photos/6533167/pexels-photo-6533167.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "id": 14,
+        "title": "Chocolate Coins",
+        "price": 998,
+        "image": "https://images.pexels.com/photos/4040890/pexels-photo-4040890.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "id": 15,
+        "title": "BIYLACLESEN Chocolate Almonds",
+        "price": 599,
+        "image": "https://images.pexels.com/photos/443419/pexels-photo-443419.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "id": 16,
+        "title": "Heart Shape Chocolate",
+        "price": 29.95,
+        "image": "https://images.pexels.com/photos/6765731/pexels-photo-6765731.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "id": 17,
+        "title": "Nutella Chocolate Combo",
+        "price": 39.99,
+        "image": "https://images.pexels.com/photos/14434045/pexels-photo-14434045.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "id": 18,
+        "title": "Rabbit Chocolate",
+        "price": 9.85,
+        "image": "https://images.pexels.com/photos/4129451/pexels-photo-4129451.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "id": 19,
+        "title": "Nutella Chocolate Box",
+        "price": 7.95,
+        "image": "https://media.istockphoto.com/id/983252436/photo/chocolates.jpg?b=1&s=612x612&w=0&k=20&c=oGXscMBQLoPjtHyS4Gj8Hj2wBLYPt56cd4PjOSY3myU="
+    },
+    {
+        "id": 20,
+        "title": "DANVOUY Chocolate Donuts",
+        "price": 12.99,
+        "image": "https://images.pexels.com/photos/3656118/pexels-photo-3656118.jpeg?auto=compress&cs=tinysrgb&w=400"
+    }
+]
